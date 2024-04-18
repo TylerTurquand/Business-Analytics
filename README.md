@@ -6,8 +6,14 @@ The primary task of this project involves analyzing raw transaction logs to deri
 
 ## Results
 
-1. Conversion Rates Findings: The funnel analysis revealed a prominent drop in conversion rates from website visitation to cart addition, with only 29.04% progressing to the cart and 35.61% completing a purchase. Addressing website aesthetics and navigation pathways could enhance user experience and streamline the purchase journey.
+1. Conversion Rates Findings: The funnel analysis revealed a prominent drop in conversion rates from website visitation to cart addition, with only 29.04% progressing to the cart while 35.61% of those customers complete a purchase. Addressing website aesthetics and navigation pathways could enhance user experience and streamline the purchase journey.
+
+![image](https://github.com/TylerTurquand/Business-Anayltics/assets/151484458/d2f9e2b7-37d8-4815-938a-217ca7966547)
+
 
 2. Retention Rates Findings: Users who made initial purchases in September and October demonstrated higher retention rates. However, retention rates witnessed a substantial decline across all cohorts, particularly from the first to the second month. Simplifying store design and implementing loyalty initiatives may mitigate user attrition and foster long-term engagement.
+
+![image](https://github.com/TylerTurquand/Business-Anayltics/assets/151484458/9f96fbfd-c2f3-4849-900c-e5944d70ef16)
+
 
 By meticulously analyzing conversion and retention metrics, this project offers actionable insights for optimizing the e-commerce store's performance and fostering sustained customer engagement.
